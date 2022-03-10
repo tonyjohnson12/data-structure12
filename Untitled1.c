@@ -18,5 +18,5 @@ c[10]=a[10]+b[10];
 printf("result");
 scanf("%d",&c[10]);
 }
-return0
+return0;
 }
