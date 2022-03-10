@@ -7,12 +7,12 @@ int a[10],b[10],c[10],i,j;
 for(i=0;i<10;i++)
 {
    printf("enter a element :");
-scanf("%d",&a[i]);
+scanf("%d",&a[10]);
 }
 for(j=0;j<10;j++)
 {
   printf("enter a element :");
-scanf("%d",&b[i]);
+scanf("%d",&b[10]);
 }
 c[10]=a[10]+b[10];
 printf("result");
